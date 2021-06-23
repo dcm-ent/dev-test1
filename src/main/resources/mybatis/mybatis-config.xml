@@ -8,7 +8,6 @@
 	
 	<typeAliases>
 	  <typeAlias alias="Film" type="com.dcm.petbox.model.Film"/>
-	  <typeAlias alias="FileDto" type="com.dcm.petbox.model.FileDTO"/>
 	</typeAliases>
 	
 </configuration>

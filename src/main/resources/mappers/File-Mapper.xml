@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-
-<mapper namespace="com.dcm.petbox.mapper.FileMapper"> 
-    <insert id="saveFileInfo" parameterType="FileDto">
-		insert into sys.file_info    
-		values('10', 'zxcv', 'zxcv1234', 'zzzzz', '2')
-    </insert>
-</mapper>
